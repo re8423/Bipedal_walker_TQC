@@ -11,10 +11,17 @@ This repo uses the Truncated Quantile Critics (TQC) to overcome overestimation b
 Demo of the TQC model in the hardcore env after 990 episodes, with a reward of 330:
 ![Gifdemo](https://github.com/re8423/Bipedal_walker_TQC/blob/d962b38973a3097ce89ca686655ba4b28bf2753e/Results/agent-hardcore-video%2C%20episode%3D1000%2C%20score%3D312.gif)
 
-Below are the results of the TQC model in the normal env:
-![normal](https://github.com/re8423/Bipedal_walker_TQC/blob/d962b38973a3097ce89ca686655ba4b28bf2753e/Results/normal.png)
+<div class="img-with-text">
+    <p>Below are the results of the TQC model in the normal env:</p>
+    <a href="url"><img src="https://github.com/re8423/Bipedal_walker_TQC/blob/d962b38973a3097ce89ca686655ba4b28bf2753e/Results/normal.png" height="400" width="400" ></a>
+</div>
 
-Below are the results of the TQC model in the hardcore env:
-![normal](https://github.com/re8423/Bipedal_walker_TQC/blob/d962b38973a3097ce89ca686655ba4b28bf2753e/Results/hardcore.png)
+<div class="img-with-text">
+    <p>Below are the results of the TQC model in the hardcore env:</p>
+    <a href="url"><img src="https://github.com/re8423/Bipedal_walker_TQC/blob/d962b38973a3097ce89ca686655ba4b28bf2753e/Results/hardcore.png" height="400" width="400" ></a>
+</div>
+
+
+
 
 
